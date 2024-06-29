@@ -37,7 +37,7 @@ section {
 section h1 {
     color: var(--Dark-Grayish-Blue);
     font-weight: 600;
-    font-size: 2.3rem;
+    font-size: 2.5rem;
 
 }
 
@@ -46,7 +46,7 @@ section p {
     font-weight: 400;
     text-align: center;
     margin-top: 15px;
-    font-size: 1rem;
+    font-size: 1.3rem;
 
 }
 
@@ -61,8 +61,8 @@ section p {
 }
 
 .dowload #ios {
-    padding: 1.4rem 2.5rem;
-    border-radius: 20px;
+    padding: 1.4rem 4rem;
+    border-radius: 30px;
     background-color: var(--Strong-Cyan);
     border: none;
     color: #fff;
@@ -77,8 +77,8 @@ section p {
 }
 
 .dowload #mac {
-    padding: 1.4rem 2.5rem;
-    border-radius: 20px;
+    padding: 1.4rem 4rem;
+    border-radius: 30px;
     background-color: var(--Light-Blue);
     border: none;
     color: #fff;
@@ -134,7 +134,7 @@ section p {
 
 
 .image-devices {
-    margin-top: 4rem;
+    margin-top: 6rem;
 }
 
 
@@ -144,7 +144,7 @@ section p {
     align-items: center;
     margin-top: 4rem;
 
-}
+} 
 
 .super-charge p {
     margin: 1rem 3rem;
@@ -153,18 +153,19 @@ section p {
 
 .super-charge h1{
     font-size: 1.7rem;
+    margin-top: 3rem ;
 }
 
 .logo-section {
     display: flex;
     justify-content: space-evenly;
-    margin-top: 6rem;
-    margin-bottom: 2rem;
+    margin-top: 8rem;
+    margin-bottom: 3rem;
     width: 100%;
 }
 
 .logo-section img {
-    width: 100px;
+    width: 130px;
 }
 
 footer {
